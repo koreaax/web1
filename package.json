@@ -1,0 +1,29 @@
+{
+  "name": "web1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koreaax/web1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koreaax/web1/issues"
+  },
+  "homepage": "https://github.com/koreaax/web1#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "compression": "^1.7.4",
+    "express": "^4.17.2",
+    "helmet": "^5.0.1",
+    "sanitize-html": "^2.6.1"
+  }
+}
